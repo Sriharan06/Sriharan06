@@ -1,14 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sriharan.M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Focus%20hard..!!%20Work%20steady..!!%20Achieve%20big..!!" alt="Typing introduction" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sriharan06">
     <img src="https://komarev.com/ghpvc/?username=Sriharan06&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sriharan06's profile views" />
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
-## 📌 About Me
+## 🧠 My Focus Areas
 - 📌 About Me
 - 🎓 Final year B.Tech (IT) student at VSB College of Engineering Technical Campus, Coimbatore
 - 💻 Entry-level Web Developer, exploring Full-Stack Development
@@ -18,15 +20,6 @@
 - 🎯 Goal: landing an SDE role and growing as a Software Engineer
 - 📍 Based in Udumalpet, Tamil Nadu, India
 - 🤝 Open to collaboration on beginner-to-intermediate Web Dev Projects
-
-
-## 🧠 My Focus Areas
--⚡ Full-Stack Web Development
-- 🖥️ Application Design
-- 💻 Programming Languages — Python, Java
-- 🌐 Web Technologies — HTML, CSS, React.js, Node.js
-- 🛢️ Database Management — MongoDB, MYSQL
-- 🛠️ Tools & Platforms — Git, GitHub, Canva, Figma,Claude,Google AI Studio
 
 
 ## 📊 GitHub Stats & Trophies
@@ -49,6 +42,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
@@ -91,9 +85,15 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sriharan06/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Sriharan.M's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:sriharan6320@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Sriharan.M's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/6383739843"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/sriharan06/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/6383739843">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sriharan6320@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
 <picture>
@@ -105,5 +105,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
 
 ![Personal Quote](https://quotes-github-readme.vercel.app/api?quote=Focus%20hard..!!%20Work%20steady..!!%20Achieve%20big..!!&author=Sriharan%20M&type=horizontal&theme=tokyonight)
