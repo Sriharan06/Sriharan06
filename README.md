@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sriharan.M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%7C%20%20IT%20Student%20%26%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sriharan.M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sriharan06">
@@ -106,4 +106,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-[🎯 Focus hard..!! Work steady..!! Achieve big..!!](ca://s?q=Focus_hard_Work_steady_Achieve_big_quote)
+![Personal Quote](https://quotes-github-readme.vercel.app/api?quote=Focus%20hard..!!%20Work%20steady..!!%20Achieve%20big..!!&author=Sriharan%20M&type=horizontal&theme=tokyonight)
